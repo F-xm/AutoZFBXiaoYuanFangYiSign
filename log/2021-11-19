@@ -35,3 +35,68 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2142701801786212353}
 
 
 
+2021-11-19 07:38:28.283926
+历史定位签到模式
+多人签到模式198206513,198107304,198107313,198107305,198107302
+当前IP：20.124.115.208,
+
+ 美国DXCTechnology
+
+系统时间：2021-11-19 07:38:34
+UTC时间：2021-11-19 07:38:28
+北京时间：2021-11-19 15:38:28
+北京时间与系统时间误差：7:59:53.716994
+2021-11-19 07:38:34.283079:198206513签到开始
+cookie文件存在
+cookie文件加载成功
+NAME冯小明
+COOKIE OK
+已经签到
+2021-11-19 07:38:47.695629:198206513签到结束
+2021-11-19 07:38:47.723220:198107304签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄奕
+COOKIE OK
+已经签到
+2021-11-19 07:39:02.262599:198107304签到结束
+2021-11-19 07:39:02.281405:198107313签到开始
+NAME张智雯
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME张智雯
+COOKIE OK
+开始签到
+NAME张智雯
+定位 115.822583，29.160202，江西省九江市
+{"status":0,"result":{"location":{"lng":115.83410411611189,"lat":29.163344005187328},"formatted_address":"江西省九江市共青城市富华南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"富华南大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E4%B9%9D%E6%B1%9F%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E4%B9%9D%E6%B1%9F%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.822587&lat=29.160204&sfby=1
+签到成功
+2021-11-19 07:39:26.010501:198107313签到结束
+2021-11-19 07:39:26.217183:198107305签到开始
+NAME李锐敏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME李锐敏
+COOKIE OK
+已经签到
+2021-11-19 07:39:42.512538:198107305签到结束
+2021-11-19 07:39:42.542463:198107302签到开始
+NAME黄丽萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME黄丽萍
+COOKIE OK
+已经签到
+2021-11-19 07:39:52.441801:198107302签到结束
+5人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2142707587392372740}
+2021-11-19 07:39:57.202212程序结束
+######################################################################
+
+
+
+
