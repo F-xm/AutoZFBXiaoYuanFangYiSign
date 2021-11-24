@@ -2,4 +2,4 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-fxgl.jx.edu.cn	FALSE	/0000077361	FALSE		JSESSIONID	7AB16DEE807C40A52E8D5D1CB653F804
+fxgl.jx.edu.cn	FALSE	/0000077361	FALSE		JSESSIONID	53FB459BB667B2DF027BD36400281A2F
