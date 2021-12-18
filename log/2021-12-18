@@ -198,3 +198,175 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2184863449934102531}
 
 
 
+2021-12-18 18:41:42.864050
+输入定位签到模式
+多人签到模式198206513,198107304,198107302,198107313,198107305,198206502,198206503,198206507,198206508
+当前IP：20.106.123.50,
+
+ 美国DXCTechnology
+
+系统时间：2021-12-18 18:41:48
+UTC时间：2021-12-18 18:41:43
+北京时间：2021-12-19 02:41:42
+北京时间与系统时间误差：7:59:53.332235
+2021-12-18 18:41:48.667825:198206513签到开始
+cookie文件存在
+cookie文件加载成功
+NAME冯小明
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821732，29.163214，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83328592590715,"lat":29.166436490577725},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821767&lat=29.163277&sfby=1
+NAME冯小明
+定位 115.821767，29.163277，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83320168429651,"lat":29.16639702182787},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821683&lat=29.163236&sfby=1
+签到成功
+2021-12-18 18:42:03.198115:198206513签到结束
+2021-12-18 18:42:03.219643:198107304签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄奕
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821683，29.163236，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83323772726286,"lat":29.166469369441147},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821719&lat=29.163309&sfby=1
+NAME黄奕
+定位 115.821719，29.163309，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83328205320105,"lat":29.166379577996208},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821763&lat=29.16322&sfby=1
+签到成功
+2021-12-18 18:42:21.945932:198107304签到结束
+2021-12-18 18:42:22.127584:198107302签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄丽萍
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821763，29.16322，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83327094075084,"lat":29.16643865755789},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821752&lat=29.163279&sfby=1
+NAME黄丽萍
+定位 115.821752，29.163279，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.8332528863385,"lat":29.166370059136747},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821734&lat=29.16321&sfby=1
+签到成功
+2021-12-18 18:42:30.347870:198107302签到结束
+2021-12-18 18:42:30.360504:198107313签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张智雯
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821734，29.16321，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83325887813807,"lat":29.166366967405094},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.82174&lat=29.163207&sfby=1
+NAME张智雯
+定位 115.82174，29.163207，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83333794339879,"lat":29.16640734190416},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821819&lat=29.163249&sfby=1
+签到成功
+2021-12-18 18:42:38.550898:198107313签到结束
+2021-12-18 18:42:38.726584:198107305签到开始
+cookie文件存在
+cookie文件加载成功
+NAME李锐敏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821819，29.163249，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83342213370573,"lat":29.16639579755917},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821903&lat=29.163239&sfby=1
+NAME李锐敏
+定位 115.821903，29.163239，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83343908091688,"lat":29.16644732078736},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.82192&lat=29.163291&sfby=1
+签到成功
+2021-12-18 18:42:47.290863:198107305签到结束
+2021-12-18 18:42:47.434270:198206502签到开始
+cookie文件存在
+cookie文件加载成功
+NAME崔虹
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.82192，29.163291，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.8334151127318,"lat":29.166458874339896},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821896&lat=29.163302&sfby=1
+NAME崔虹
+定位 115.821896，29.163302，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83339736209578,"lat":29.16642120383503},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821878&lat=29.163264&sfby=1
+签到成功
+2021-12-18 18:42:55.886186:198206502签到结束
+2021-12-18 18:42:56.078040:198206503签到开始
+cookie文件存在
+cookie文件加载成功
+NAME胡亚妮
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821878，29.163264，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83334702100905,"lat":29.1664912956164},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821828&lat=29.163333&sfby=1
+NAME胡亚妮
+定位 115.821828，29.163333，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83328510237338,"lat":29.16643053576889},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821766&lat=29.163271&sfby=1
+签到成功
+2021-12-18 18:43:04.179551:198206503签到结束
+2021-12-18 18:43:04.386744:198206507签到开始
+cookie文件存在
+cookie文件加载成功
+NAME王佩祺
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821766，29.163271，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83325285495383,"lat":29.166339126752506},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821734&lat=29.163179&sfby=1
+NAME王佩祺
+定位 115.821734，29.163179，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83327692759984,"lat":29.166430681748556},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821758&lat=29.163271&sfby=1
+签到成功
+2021-12-18 18:43:17.828882:198206507签到结束
+2021-12-18 18:43:17.974312:198206508签到开始
+cookie文件存在
+cookie文件加载成功
+NAME熊文红
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.821758，29.163271，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83335590151849,"lat":29.166380972240064},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821837&lat=29.163223&sfby=1
+NAME熊文红
+定位 115.821837，29.163223，江西省九江市共青城市青年大道69号南昌航空大学科技学院
+{"status":0,"result":{"location":{"lng":115.83343224020979,"lat":29.16641949491958},"formatted_address":"江西省九江市共青城市学府大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"共青城市","town":"","town_code":"","adcode":"360482","street":"学府大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&street=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&bstreet=%E9%9D%92%E5%B9%B4%E5%A4%A7%E9%81%9369%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E5%85%B1%E9%9D%92%E5%9F%8E%E5%B8%82&lng=115.821913&lat=29.163263&sfby=1
+签到成功
+2021-12-18 18:43:26.699163:198206508签到结束
+9人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2185412536555175936}
+2021-12-18 18:43:30.086781程序结束
+######################################################################
+
+
+
+
